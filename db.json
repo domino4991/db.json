@@ -1,5 +1,8 @@
 {
   "posts": [
     {"id": 1, "title": "Post 1", "body": "This is post #1"}
+  ],
+  "comments" : [
+    {"id": 1, "commentTitle": "Comment 1", "commentBody": "This is comment #1"}
   ]
 }
